@@ -1,0 +1,15 @@
+﻿  pch.cpp
+  awbw.cpp
+e:\wx\c++\awbw\awbw\awbw.cpp(368): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\wx\c++\awbw\awbw\awbw.cpp(372): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\wx\c++\awbw\awbw\awbw.cpp(373): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\wx\c++\awbw\awbw\awbw.cpp(377): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\wx\c++\awbw\awbw\awbw.cpp(378): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\wx\c++\awbw\awbw\awbw.cpp(451): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\wx\c++\awbw\awbw\awbw.cpp(452): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\wx\c++\awbw\awbw\awbw.cpp(491): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\wx\c++\awbw\awbw\awbw.cpp(492): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\wx\c++\awbw\awbw\awbw.cpp(645): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\wx\c++\awbw\awbw\awbw.cpp(652): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\wx\c++\awbw\awbw\awbw.cpp(355): warning C4715: “UI”: 不是所有的控件路径都返回值
+  awbw.vcxproj -> E:\wx\c++\awbw\Debug\awbw.exe
